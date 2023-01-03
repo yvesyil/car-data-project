@@ -7,4 +7,4 @@ I quite enjoyed doing this assignment and decided to improve it:
 
 - [x] Make the scraper non-blocking (multi-threaded).
 - [x] Rebuild the web app using SvelteKit. (WIP)
-- [] Dockerize all the services.
+- [ ] Dockerize all the services.
