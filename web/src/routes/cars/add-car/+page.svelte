@@ -25,7 +25,7 @@
         </label>
         <select class="select select-bordered w-full max-w-xs" id="year">
           {#each years as year}
-          <option value={year}>{year}</option>
+            <option value={year}>{year}</option>
           {/each}
         </select>
         <label class="label" for="description">
@@ -49,7 +49,7 @@
           <input class="input input-bordered" id="odometer" type="number" />
           <select class="select select-bordered select-info">
             <option value="km">km</option>
-            <option value="mile">mi</option>
+            <option value="mi">mi</option>
           </select>
         </label>
         <label class="label" for="color">
